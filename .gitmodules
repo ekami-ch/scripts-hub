@@ -1,0 +1,3 @@
+[submodule "printnode"]
+	path = printnode
+	url = https://github.com/ekami-ch/printnode-install-scripts
